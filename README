@@ -1,3 +1,3 @@
 Unity project for LCC 2730.
 
-Escape the maze while avoiding the monster. The flame on your candle points towards your exit. The monster will not move if you are looking at it.
+Escape the maze while avoiding the monster. The maze is made of nested pentagons with you at the center. The flame on your candle points towards your exit. The monster will not move if you are looking at it and if you touch it, the game will restart. Your heartbeat increases the closer the monster gets.
